@@ -18,6 +18,12 @@
   }
 }
 
+@media (max-width: 480px) {
+  .masonry {
+    columns: 1;
+  }
+}
+
 /* @media (max-width: 768px) {columns: 1;} */
 
 .masonry .grid {
